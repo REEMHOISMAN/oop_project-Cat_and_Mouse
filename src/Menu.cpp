@@ -2,7 +2,7 @@
 #include "ResourcesManager.h"
 
 /*================== Menu constructor =================*/
-/**----------------------------------------------
+/**----------------------------------------------------
  * initialize the buttons postion (so it'll fit to the menu background)  
  *---------------------------------------------**/
 Menu::Menu() : m_game(*this), m_gameRun(false), m_gameOver(false), m_help(false), m_help1Page(false)
