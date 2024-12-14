@@ -1,6 +1,5 @@
 ====== PROJECT - CAT AND MOUSE =====
 name: Re'em Hoisman
-id: 2111694146
 
 ---- Program info ----
 this program presenting a cat mouse game by the following rules:
